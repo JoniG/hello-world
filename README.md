@@ -1,2 +1,5 @@
 # hello-world
-1
+
+Hi everyone!
+
+My name is Jon and I am new in programming.
